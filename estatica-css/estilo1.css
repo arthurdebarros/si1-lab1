@@ -1,0 +1,20 @@
+
+h1	{
+	font-family:"Verdana";
+	background-color:orange;
+	}
+p
+	{
+	font-family:"Verdana";
+	font-size:18px;
+	}	
+body {
+	font-family:"Verdana";
+	background-color: #FFFFCC;
+	}
+#linkfinal
+	{
+	text-align:center;
+	color:red;
+	font-size:24px;
+	}
